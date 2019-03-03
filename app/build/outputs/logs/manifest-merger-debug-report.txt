@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f3b6f3e24e87d4824475b90ebf7e606b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/70e28b6fd3877650cd86aee19978ee81/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ee01e75692753688ec769ce119df3186/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/fc139f509f43b2744674b30a1ecc3374/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/65a474cf0514069d243544fb5ea6ef5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/37176d6fcf1a118ce9d1789dc87f743c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6c0c49f736807be3233b8e72a9d0cb90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/43bc17039f30262214bc21864322c999/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f49c6a277c5a3ccab54d053e1c177075/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/11bb1844e99a29f11e46176f6a8912be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9505a0144213678048391773d141b561/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f4ecefef50acc0f0d59c14de1c20be32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/728c0abea67a69ee88a21d23ba14165c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fe0d6edd109b6a0add9d25fb5c215176/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5f0b441b0c18ceb3a0f52de134753746/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7caf65ddf7ea9581c6012705df6b0e0c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66c69d1b472167ec1d530bc4b2b89b51/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d7ecfbb1001603969433694e9a9ec4d8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/844e78f588965ee0eb6573fbec367763/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/10ef493972be984c3cd270116d51614a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/303c7f2406cdb09a6dd89dee3cd27ae5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9c1b8f313dadc0369d3cbfea849d83b2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8571b6b02cf5384b9b37ae214946a3cc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/444dda8ee5b284b7463a0d5f2b54846b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ef9ce444f33f88dfe8733f68900b9a16/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b3a89b02700a5a923938100b754f436c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d04b8d469a6e1f1134ae60297aec8ce4/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/70e28b6fd3877650cd86aee19978ee81/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/70e28b6fd3877650cd86aee19978ee81/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7caf65ddf7ea9581c6012705df6b0e0c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7caf65ddf7ea9581c6012705df6b0e0c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66c69d1b472167ec1d530bc4b2b89b51/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66c69d1b472167ec1d530bc4b2b89b51/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7caf65ddf7ea9581c6012705df6b0e0c/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.jackpot.MainActivity
+ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml
+INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f3b6f3e24e87d4824475b90ebf7e606b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f3b6f3e24e87d4824475b90ebf7e606b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/70e28b6fd3877650cd86aee19978ee81/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/70e28b6fd3877650cd86aee19978ee81/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ee01e75692753688ec769ce119df3186/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ee01e75692753688ec769ce119df3186/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/fc139f509f43b2744674b30a1ecc3374/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/fc139f509f43b2744674b30a1ecc3374/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/65a474cf0514069d243544fb5ea6ef5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/65a474cf0514069d243544fb5ea6ef5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/37176d6fcf1a118ce9d1789dc87f743c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/37176d6fcf1a118ce9d1789dc87f743c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6c0c49f736807be3233b8e72a9d0cb90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6c0c49f736807be3233b8e72a9d0cb90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/43bc17039f30262214bc21864322c999/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/43bc17039f30262214bc21864322c999/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f49c6a277c5a3ccab54d053e1c177075/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f49c6a277c5a3ccab54d053e1c177075/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/11bb1844e99a29f11e46176f6a8912be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/11bb1844e99a29f11e46176f6a8912be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9505a0144213678048391773d141b561/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9505a0144213678048391773d141b561/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f4ecefef50acc0f0d59c14de1c20be32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f4ecefef50acc0f0d59c14de1c20be32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/728c0abea67a69ee88a21d23ba14165c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/728c0abea67a69ee88a21d23ba14165c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fe0d6edd109b6a0add9d25fb5c215176/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fe0d6edd109b6a0add9d25fb5c215176/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5f0b441b0c18ceb3a0f52de134753746/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5f0b441b0c18ceb3a0f52de134753746/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7caf65ddf7ea9581c6012705df6b0e0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7caf65ddf7ea9581c6012705df6b0e0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66c69d1b472167ec1d530bc4b2b89b51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66c69d1b472167ec1d530bc4b2b89b51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d7ecfbb1001603969433694e9a9ec4d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d7ecfbb1001603969433694e9a9ec4d8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/844e78f588965ee0eb6573fbec367763/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/844e78f588965ee0eb6573fbec367763/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/10ef493972be984c3cd270116d51614a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/10ef493972be984c3cd270116d51614a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/303c7f2406cdb09a6dd89dee3cd27ae5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/303c7f2406cdb09a6dd89dee3cd27ae5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9c1b8f313dadc0369d3cbfea849d83b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9c1b8f313dadc0369d3cbfea849d83b2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8571b6b02cf5384b9b37ae214946a3cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8571b6b02cf5384b9b37ae214946a3cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/444dda8ee5b284b7463a0d5f2b54846b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/444dda8ee5b284b7463a0d5f2b54846b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ef9ce444f33f88dfe8733f68900b9a16/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ef9ce444f33f88dfe8733f68900b9a16/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b3a89b02700a5a923938100b754f436c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b3a89b02700a5a923938100b754f436c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d04b8d469a6e1f1134ae60297aec8ce4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/abhayvashokan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d04b8d469a6e1f1134ae60297aec8ce4/AndroidManifest.xml:20:5-44
+INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml
+INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhayvashokan/Productivity/Android Development/Jackpot/app/src/main/AndroidManifest.xml
